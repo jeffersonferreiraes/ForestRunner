@@ -1,7 +1,7 @@
 import pygame
 import random
 import os
-from config import *
+from code.config import *
 
 
 class Collectible(pygame.sprite.Sprite):

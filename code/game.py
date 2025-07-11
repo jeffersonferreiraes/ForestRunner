@@ -2,10 +2,10 @@ import pygame
 import random
 import os
 import sys
-from config import *
-from player import Player
-from obstacle import Obstacle
-from collectible import Collectible
+from code.config import *
+from code.player import Player
+from code.obstacle import Obstacle
+from code. collectible import (Collectible)
 
 
 class Game:

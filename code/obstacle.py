@@ -1,7 +1,7 @@
 import pygame
 import random
 import os
-from config import *
+from code.config import *
 
 class Obstacle(pygame.sprite.Sprite):
     def __init__(self, game, x_pos):
